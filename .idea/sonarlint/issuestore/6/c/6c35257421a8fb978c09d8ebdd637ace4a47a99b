@@ -1,0 +1,10 @@
+
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö–àí8÷ì£Ï÷,
+hsquid:UselessImportCheck"8Remove this unused import 'java.lang.annotation.Target'.(†üïÍûÿÿÿÿ8ÝÃ®Ï÷,
+fsquid:UselessImportCheck	";Remove this unused import 'java.lang.annotation.Retention'.(ã®›Ö8ÝÃ®Ï÷,
+lsquid:UselessImportCheck
+"ARemove this unused import 'java.lang.annotation.RetentionPolicy'.(¥‘Âœ8ÝÃ®Ï÷,
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‚Ý­³ùÿÿÿÿ8÷ì£Ï÷,
+Psquid:S1481"-Remove this unused "sumOfTen" local variable.(‹éÊ ÿÿÿÿÿ8÷ì£Ï÷,
+hsquid:UselessImportCheck"=Remove this unused import 'java.lang.annotation.ElementType'.(’åÕÛ8ÝÃ®Ï÷,
